@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S-A-Martin (Steven Martin)
-- 👀 **Interested in**: Building my skills around C++
-- 🌱 **Working on**: Furthering my knowledge of C++, GTest, SQL, CMake and Github and grasping the underpinnings of ML.
-- 💞️ **Looking to collaborate on**: Pretty much anything for the time being! Just happy to find projects to contribute to.
+
+Granted my repos are a little slim at the moment. I'm working on adding more projects, improving unit testing and adding more documentation. 
+
 - 📫 **Reach me by**: Emailing S-A-Martin@hotmail.com
 
 <!---
